@@ -1,4 +1,4 @@
-package cn.catwork.spring.logic.user.jpa.entity;
+package cn.springlogic.user.jpa.entity;
 
 import lombok.Data;
 
